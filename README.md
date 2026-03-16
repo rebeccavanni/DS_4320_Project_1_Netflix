@@ -3,8 +3,11 @@
 This project builds a secondary relational dataset from the MovieLens 25M dataset created by GroupLens Research from University of Minnesota. With the goal of helping recommend movies to new users of a streaming platform. Given a small survey about genre interest and no prior watch history, the model will recommend a rank list of the top 5 movies using tag genome relevance and aggregate rankings from 25 million people. This repository has a fully normalized relational schema, data pipeline, solution notebook, and press release. 
 
 **Name:** Rebecca Vanni
+
 **NetID:** ecn2wh
+
 **DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+
 **License:** [MIT License](./LICENSE)
 
 ## Problem Definition 
