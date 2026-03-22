@@ -1,10 +1,10 @@
 import pandas as pd
 import os
 
-#folder to hold raw data
-RAW_DIR    = "."          
-#folder for clean data
-OUTPUT_DIR = "data"      
+#folder to hold raw data, in colab
+RAW_DIR    = "/content"      
+#folder for clean data, in colab
+OUTPUT_DIR = "/content/data"      
 #setting threshold at 50 movies 
 MIN_RATINGS = 50          
 
