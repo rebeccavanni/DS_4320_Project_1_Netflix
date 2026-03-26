@@ -55,7 +55,7 @@ This project lives in the streaming platform domain. Within that is is focused i
 
 ### Background Reading:
 
-Readings are linked [here](https://myuva-my.sharepoint.com/:f:/g/personal/ecn2wh_virginia_edu/IgA9ZguJMmhsRI5pEXVOEl3LAZx3wsYaePkO5Oyb9hZjxnI?e=zhi7z6)
+Readings are linked [here]([https://myuva-my.sharepoint.com/:f:/g/personal/ecn2wh_virginia_edu/IgA9ZguJMmhsRI5pEXVOEl3LAZx3wsYaePkO5Oyb9hZjxnI?e=zhi7z6](https://myuva-my.sharepoint.com/:f:/g/personal/ecn2wh_virginia_edu/IgA9ZguJMmhsRI5pEXVOEl3LAQqIJn5mLbPQUKsEjolq94M?e=6jW6BZ))
 
 | # | Title | Brief Description | Link |
 |---|---|---|---|
