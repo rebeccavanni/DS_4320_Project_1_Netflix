@@ -102,6 +102,8 @@ The final ranking combines a content-based cosine similarity score with a Bayesi
 
 ### ER diagram
 
+![erd_hw8.drawio.png](./data/erd_hw8.drawio.png)
+
 ### Data table
 
 | Table | Description | Link to CSV |
