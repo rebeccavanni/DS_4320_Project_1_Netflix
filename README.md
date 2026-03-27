@@ -108,10 +108,10 @@ The final ranking combines a content-based cosine similarity score with a Bayesi
 
 | Table | Description | Link to CSV |
 |---|---|---|
-| movies_clean.csv | Movie metadata: movieId, title, genres (pipe-delimited); filtered to movies with ≥50 ratings | [movies_clean.csv](https://github.com/rebeccavanni/DS_4320_Project_1_Netflix/tree/main/data) |
-| ratings_agg.csv | Per-movie aggregate statistics: avg_rating and rating_count; one row per movieId | [ratings_agg.csv](https://github.com/rebeccavanni/DS_4320_Project_1_Netflix/tree/main/data) |
-| genome-scores.csv | Tag relevance scores: one row per (movieId, tagId) pair with a continuous relevance score 0–1 | [genome-scores.csv](https://github.com/rebeccavanni/DS_4320_Project_1_Netflix/tree/main/data) |
-| genome-tags.csv | Tag label lookup: one row per tagId mapping to a human-readable tag string | [genome-tags.csv](https://github.com/rebeccavanni/DS_4320_Project_1_Netflix/tree/main/data) |
+| movies_clean.csv | Movie metadata: movieId, title, genres (pipe-delimited); filtered to movies with ≥50 ratings | [movies.csv](https://myuva-my.sharepoint.com/:x:/g/personal/ecn2wh_virginia_edu/IQARLRHF1EdrSY64vkLu8doxASY409cDGU0Rp48BwU9ZdsE?e=mFO8Si) |
+| ratings_agg.csv | Per-movie aggregate statistics: avg_rating and rating_count; one row per movieId | [ratings_agg.csv](https://myuva-my.sharepoint.com/:x:/g/personal/ecn2wh_virginia_edu/IQANrch5XAKxQLzSRZUjooB_AT6U0oCgPvDZ5TLK64V-Eak?e=BNL0r9) |
+| genome-scores.csv | Tag relevance scores: one row per (movieId, tagId) pair with a continuous relevance score 0–1 | [genome-scores.csv](https://myuva-my.sharepoint.com/:x:/g/personal/ecn2wh_virginia_edu/IQDUbJgJWjqDTp73OukxyRF1AaxoOtRE5cxEnO9e84i3EBo?e=wNIcsP) |
+| genome-tags.csv | Tag label lookup: one row per tagId mapping to a human-readable tag string | [genome-tags.csv](https://myuva-my.sharepoint.com/:x:/g/personal/ecn2wh_virginia_edu/IQDBn1IsJoWtQqyXVBTxPO28AYxlXRFKs19QlZIau_ybmqI?e=rvDu8t) |
 
 ### Data dictionary
 
