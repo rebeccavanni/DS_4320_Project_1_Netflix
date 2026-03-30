@@ -78,7 +78,7 @@ In order to create the secondary dataset, I did transformed the raw files. I nee
 
 | File | Description | Link |
 |---|---|---|
-| pipeline/build_dataset.py | Loads raw MovieLens CSVs computes per-movie avg rating and count, filters out by threshold (50), parses genres, and saves into clean files (movies_clean and raggtings_agg) | [link](https://github.com/rebeccavanni/DS_4320_Project_1_Netflix/blob/main/pipeline/project1_ds_solution.ipynb) |
+| pipeline/project1_ds_solution | Loads raw MovieLens CSVs computes per-movie avg rating and count, filters out by threshold (50), parses genres, and saves into clean files (movies_clean and raggtings_agg) | [link](https://github.com/rebeccavanni/DS_4320_Project_1_Netflix/blob/main/pipeline/project1_ds_solution.ipynb) |
 
 ### Bias identification
 
