@@ -6,7 +6,7 @@ This project builds a secondary relational dataset from the MovieLens 25M datase
 
 **NetID:** ecn2wh
 
-**DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+**DOI:** [10.5281/zenodo.XXXXXXX](https://zenodo.org/records/19341763)
 
 **License:** [MIT License](./LICENSE)
 
