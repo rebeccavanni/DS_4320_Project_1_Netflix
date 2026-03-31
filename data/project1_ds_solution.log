@@ -1,0 +1,13 @@
+2025-01-15 09:23:41,002 - INFO - Pipeline notebook started
+2025-01-15 09:23:44,318 - INFO - Connected to DuckDB at /content/movielens.db
+2025-01-15 09:23:58,762 - INFO - movies created
+2025-01-15 09:27:12,445 - INFO - ratings_agg created
+2025-01-15 09:27:13,091 - INFO - genome_tags created
+2025-01-15 09:29:55,603 - INFO - genome_scores created
+2025-01-15 09:30:01,227 - INFO - genre_df: 28525 rows, 13138 unique movies
+2025-01-15 09:32:44,889 - INFO - genome_df: 14817408 rows
+2025-01-15 09:32:45,103 - INFO - popularity_df: 13138 rows
+2025-01-15 09:32:47,661 - INFO - genome_matrix shape: (13136, 1128)
+2025-01-15 09:32:48,004 - INFO - Candidates for genres ['Action', 'Sci-Fi']: 4521 movies
+2025-01-15 09:32:48,119 - INFO - User profile built from 47 seed movies
+2025-01-15 09:32:50,334 - INFO - Recommendation complete. Returning top 5.
